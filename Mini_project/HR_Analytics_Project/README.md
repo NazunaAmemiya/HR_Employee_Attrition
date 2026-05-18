@@ -66,13 +66,13 @@ Bạn có thể chạy độc lập từng module bằng cách mở Terminal (ho
 
 **1. Kiểm tra Module 1 (NumPy & Vectorization):**
 ```bash
-python src/numpy_tasks.py
+python HR_Analytics_Project/src/numpy_tasks.py
 ```
 **2. Kiểm tra Module 2 (Toán học cho AI):**
 ```bash
-python src/math_tasks.py
+python HR_Analytics_Project/src/math_tasks.py
 ```
 **3. Kiểm tra Module 3 (Pandas & Trực quan hóa):**
 ```bash
-python src/pandas_tasks.py
+python HR_Analytics_Project/src/pandas_tasks.py
 ```
