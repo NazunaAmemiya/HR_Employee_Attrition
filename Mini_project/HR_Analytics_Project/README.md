@@ -63,6 +63,7 @@ pip install -r requirements.txt
 
 ## 🚀 Hướng dẫn sử dụng
 Bạn có thể chạy độc lập từng module bằng cách mở Terminal (hoặc Command Prompt), di chuyển vào thư mục dự án và gõ các lệnh tương ứng dưới đây:
+
 **1. Kiểm tra Module 1 (NumPy & Vectorization):**
 ```bash
 python src/numpy_tasks.py
